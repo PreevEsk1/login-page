@@ -48,3 +48,8 @@ body {
     border: 1px solid #0a0a23;
     color: #ffffff;
   }
+
+  .inline {
+    width: unset;
+   
+  }
